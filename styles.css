@@ -101,6 +101,16 @@ body {
     background-color: #32cd32;
 }
 
+.btn-secondary {
+    background-color: #4B0F2E;
+    color: #ffffff;
+}
+
+
+.btn-secondary:hover {
+    background-color: #3cf224;
+}
+
 .scroll-indicator {
     position: absolute;
     bottom: 2rem;
