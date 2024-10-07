@@ -57,6 +57,11 @@ document.addEventListener('DOMContentLoaded', () => {
         alert("Welcome to PulseNode! You're on your way to high-performance game hosting.");
         window.open('https://client.plusenode.xyz/', '_blank');
     });
+    
+    // Join Discord button
+    joinDiscordBtn.addEventListener('click', () => {
+        window.open('https://discord.gg/25KQBBwT2D', '_blank');
+    });
 
     // Scroll to top button
     scrollTopBtn.addEventListener('click', () => {
